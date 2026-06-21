@@ -1,6 +1,8 @@
 ## Hi there 👋
 # Γεια σου, είμαι ο Nikos 👋
 
+- 🔭 Είμαι φοιτητής στο τμήμα Εφαρμοσμένης Πληροφορικής του Πανεπιστημίου Μακεδονίας
+
 
 Αυτή είναι η σελίδα μου στο GitHub, όπου ανεβάζω τα projects μου και τις εφαρμογές που αναπτύσσω.
 ## 🛠️ Τεχνολογίες & Γλώσσες
@@ -26,7 +28,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

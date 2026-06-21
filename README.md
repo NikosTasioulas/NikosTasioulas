@@ -28,6 +28,7 @@
 * Euroleague funboy.
 * Το πρώτο μου "Hello World" έτρεξε με την πρώτη... και από τότε υποψιάζομαι ότι κάτι πήγε λάθος.
 * Εθισμένος με τις τελευταίες τεχνολογικές εξελίξεις.
+* Music adn photography enthusiast
 ---
 📫 Επικοινωνία: nikolastasioulas@gmail.com
 
